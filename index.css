@@ -154,7 +154,7 @@ input{
 	background: linear-gradient(to right top,#65dfc9,#6cdbeb);
 	border-radius: 2rem;
 	width:15rem;
-	height: 3
+	height: 1rem;
 	overflow: hidden;
 	position: relative;
 }
