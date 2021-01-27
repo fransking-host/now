@@ -33,7 +33,7 @@ h3{
 .glass{
 	background: white;/*设置背景色为白色，但后面又用线性渐变？*/
 	height:90%;
-	width:60%;	
+	width:90%;	
 	background: linear-gradient(to right bottom,
 	rgba(255,255,255,0.7),
 	rgba(255,255,255,0.3)
